@@ -28,6 +28,8 @@ figcaption {
 }
 
 /* Descendent Selectors */
-
+#logo > h1 {
+  
+}
 
 /*   font: bold 2.6em 'Clicker Script', cursive; */
