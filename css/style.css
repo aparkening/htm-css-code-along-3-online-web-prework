@@ -2,6 +2,7 @@
 
 /* Exceptional Realty CSS */
 
+/* Type Selectors*/
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -14,11 +15,13 @@ figcaption {
   text-align: right;
 }
 
+/* Class Selectors */
 .milk-text { /* select elements with class="milk-text" */
   font: bold 2.6em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
 
+/* ID Selectors*/
 
 /*   font: bold 2.6em 'Clicker Script', cursive; */
