@@ -14,9 +14,8 @@ figcaption {
   text-align: right;
 }
 
-.milk-text { */ select elements with class="milk-text" */
-  font: bold white 2.6em Elsie Swash Caps', cursive;
-
+.milk-text { /* select elements with class="milk-text" */
+  font: white bold 2.6em 'Elsie Swash Caps', cursive;
   text-shadow: 0 2px 3px #000;
 }
 
